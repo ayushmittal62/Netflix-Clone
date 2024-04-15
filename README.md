@@ -1,0 +1,6 @@
+Netflix-Clone (My First Project)
+![image](https://github.com/ayushmittal62/Netflix-Clone/assets/146801716/456cb590-3891-4f61-99fd-b95453f51524)
+![image](https://github.com/ayushmittal62/Netflix-Clone/assets/146801716/f6cd28a2-1216-4a96-a7c0-2534b8122a0e)
+![image](https://github.com/ayushmittal62/Netflix-Clone/assets/146801716/47c8138b-f698-4346-864d-eeb05fa993e1)
+![image](https://github.com/ayushmittal62/Netflix-Clone/assets/146801716/359d8b38-d89c-4938-902e-1fdd5acaa2e3)
+![image](https://github.com/ayushmittal62/Netflix-Clone/assets/146801716/ec5c96cb-e664-4867-8d69-d06720510c06)
